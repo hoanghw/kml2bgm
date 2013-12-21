@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>UC Berkeley Parking Lots/Garages</name>
+  <description><![CDATA[For a comprehensive guide to UC Berkeley campus parking, the map displays all designations of parking lots and campus facilities with detailed permit requirements.]]></description>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://www.redwoodtransit.org/berkeley_remote/images/offcampus-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/icons/dis-parking.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/parkinglot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>4th Street Lot</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://pt.berkeley.edu/sites/default/files/4thstreet.jpg" style="width:242px"></div><div dir="ltr"><font color="#33ccff"><font color="#3366ff">Parking Permits</font>:</font> F, C<br>&nbsp;</div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#3366ff">Entrance:</font> 4Th Street<br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-122.301788,37.872288,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Anna Head Court</name>
+    <Snippet>No of Spaces: 16Parking Permits:&amp;nbsp;Faculty/staff, Disabled Parking, Restricte</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Anna-Head-Court.jpg"> 
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">16</span><br>Parking Permits: <font size="4" color="#000000"><font size="2">F</font>&nbsp;&nbsp;&nbsp;&nbsp; </font></font></font></div>
+<div dir="ltr"><font color="#3366ff"></font><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font></div>
+<div dir="ltr">Entrance: <font color="#000000">Haste Street</font><br>&nbsp;</div></font></font></font><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed -&nbsp; Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-122.256844,37.866547,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Anna Head Lot</name>
+    <Snippet>No of Spaces: 55Parking Permits:&amp;nbsp;Faculty/staff, Disabled Parking Entrance: </Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/annaheadlot.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">52</span><br>Parking Permits: <font color="#000000">F</font></font></font></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font></font></font><font color="#3366ff">Entrance:</font> Channing Way</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-122.257233,37.866776,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bancroft/Fulton Lot</name>
+    <Snippet>No of Spaces: 225 (45 spaces Attendant Parked)Parking Permits: Carpool Parking (</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Bancroft-Fulton.jpg">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">202</span><br>Parking Permits</font>:</font> CP (reserved until 10am),C, F, S, DP<br></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Bancroft Way<br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>-122.264954,37.867477,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bancroft/Fulton West (Underground)</name>
+    <Snippet>No of Spaces: 32Parking Permits: Faculty/staff  Entrance: Durant Ave   Height Re</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Bancraft-Fulton-West.jpg">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">30</span><br>Parking Permits</font>:</font> C, F</div>
+<div dir="ltr">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Durant Ave </div>
+<div><font color="#3366ff">Height Restrictions:</font> 7' 11"</div>
+
+]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-122.265411,37.867485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bancroft Structure</name>
+    <Snippet>No of Spaces: 131 (30 spaces Attendant Parked)  Parking Permits: Central Campus,</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/bancroftstructure.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">126 (30 spaces Attendant Parked)</span></font></div>
+<div dir="ltr"><font color="#3366ff">Parking Permits</font><font color="#33ccff">:</font> C, DP<br></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Bancroft Way</div>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">Height Restrictions:</span><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic"> <font color="#000000" size="2">7</font></span></span><font color="#000000" size="2">' 2"</font><span style="font-style:italic"><br></span></font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-122.255798,37.869610,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Banway Lot</name>
+    <Snippet>No of Spaces: 49Parking Permits: Central Campus,&amp;nbsp; Disabled Parking, Motorcy</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/banwaylot.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">41</span><br>Parking Permits</font><font color="#33ccff">:</font> C, F, M, DP<br>&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> <span>Bancroft Way</span></div>
+<div dir="ltr"><span><span style="color:rgb(51, 102, 255)">Height Restrictions:</span><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic"> <font color="#000000" size="2">9</font></span></span><font color="#000000" size="2">' 6"</font><span style="font-style:italic"><br></span></font></span><font color="#cc0000" size="4"><br>&nbsp;</font></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-122.266769,37.867893,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrows Annex Lot</name>
+    <Snippet>No of Spaces: 4Parking Permits: Central Campus&amp;nbsp; Entrance: Barrow Lane</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Barrows-Annex.jpg">
+<div dir="ltr"><font color="#3366ff">No of Spaces:<span style="color:rgb(0, 0, 0)"> 2</span><br>Parking Permits</font><font color="#33ccff">: <font color="#000000">C</font></font></div>
+<div dir="ltr">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Barrow Lane</div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-122.258049,37.869793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrows Lane</name>
+    <Snippet>No of Spaces: 35Parking Permits: Central Campus, Disabled Parking, Restricted&amp;nb</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/BarrowsLane.jpg" border="0" height="150" width="200"><br><br>No of Spaces: 8<span style="color:rgb(0, 0, 0)"></span><br>Parking Permits: <font color="#000000">C<br></font></font></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font></div>
+<div dir="ltr"><font color="#3366ff">Entrance:</font> Barrow Lane</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-122.258530,37.869667,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Berkeley Way Lot</name>
+    <description><![CDATA[<font color="#3366ff">Parking Permits</font><font color="#33ccff">:</font>&nbsp;F, C,&nbsp;<font size="4"><span style="font-size:10pt;font-family:Arial">Public (P)</span></font><br><font color="#3366ff">Permit Parking:</font><font color="#000000">&nbsp;</font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F&nbsp;</font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp;&nbsp;<br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp;&nbsp;</font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font>&nbsp;Berkeley Way and Hearst Ave.]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-122.267982,37.873356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bechtel Drive</name>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Betchel.jpg" style="width:230px">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <font color="#000000">3<br></font>Parking</font>:</font> DP<br><font color="#3366ff">Parking Times:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm <br></font></font></font></font><font color="#3366ff">Entrance:</font> Gayley Road<br></div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-122.257339,37.874599,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Boalt Lot</name>
+    <Snippet>No of Spaces: 104Parking Permits: Central Campus, Disabled Parking,&amp;nbsp;Public </Snippet>
+    <description><![CDATA[<div><span><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Boalt.jpg" border="0" height="150" width="200"><br>No of Spaces: <font color="#000000">97</font></span><br><span style="color:rgb(51, 102, 255)">Parking Permits: <font color="#000000">C, </font></span></span><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font><span><span style="color:rgb(51, 102, 255)"></span><span style="font-weight:bold;color:rgb(0, 51, 0)">, DP </span><br><span style="color:rgb(51, 102, 255)">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></span></span><span><span style="color:rgb(51, 102, 255)">Entrance:</span>&nbsp;Piedmont Ave </span></div><span><strong></strong>
+</span><span style="color:rgb(0, 51, 0)"><span style="color:rgb(0, 102, 0)"><font color="#000000">Secure Bicycle Parking Facilities</font></span></span> 
+
+<div><span><span style="color:rgb(0, 51, 0)"><span style="color:rgb(0, 102, 0)"><font color="#3366ff">Emergency Phone:</font><font color="#000000">&nbsp;No coins needed - Dial 9-911 or 911</font></span></span></span><br>&nbsp;</div><b><font color="#003b78" face="Arial" size="1"><font color="#003b78" face="Arial" size="1"><font color="#003b78" face="Arial" size="1"></font></font></font></b>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-122.253403,37.870644,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Botanical Garden Lot</name>
+    <Snippet>No of Spaces: 79Parking Permits: Faculty/Staff,&amp;nbsp;Public Ticket Machine/meter</Snippet>
+    <description><![CDATA[<div dir="ltr"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/botanical.jpg" border="0" height="150" width="200"><br><span style="color:rgb(51, 102, 255)">No of Spaces: <font color="#000000">73</font></span><br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> F, P, H, DP<br></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">E</font><span style="color:rgb(51, 102, 255)">mergency Phone </span><br>No coins needed - Dial 9-911 or 911<br></div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-122.239273,37.875515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bowles Lot </name>
+    <Snippet>No of Spaces: 70Parking Permits: Faculty/Staff Entrance: Stadium Rim WayEmergenc</Snippet>
+    <description><![CDATA[<div dir="ltr"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Bowles.jpg" border="0" height="150" width="200"><br><span style="color:rgb(51, 102, 255)">No of Spaces: <font color="#000000">70</font></span><br><span style="color:rgb(51, 102, 255)">Parking Permits: <font color="#000000">F</font></span></div>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></span><span style="color:rgb(51, 102, 255)">Entrance:</span> Stadium Rim Way<br><span style="color:rgb(51, 102, 255)">Emergency Phone </span><br>No coins needed - Dial 9-911 or 911<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-122.253723,37.873001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carleton Street</name>
+    <Snippet> No of Spaces: 15Parking Permits: Central CampusEntrance: Carleton St&amp;nbsp;</Snippet>
+    <description><![CDATA[<div><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/carletonstreet.jpg"></div>
+<div><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">11</span><br>Parking Permits</font>: <font color="#000000">C</font></font>, F<br><font color="#3366ff"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font></div>
+<div><font color="#3366ff"></font>&nbsp;</div>
+<div><font color="#3366ff">Entrance:</font> Carleton St<br>&nbsp;</div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-122.268074,37.860973,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centennial Drive</name>
+    <Snippet>No of Spaces: 11Parking Permits: Public Ticket Machine/meter Entrance: Centennia</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/centenialmeters.jpg" border="0" height="150" width="200"><br>No of Spaces:</span> 3<br><span style="color:rgb(51, 102, 255)">Parking Permits: </span><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Reserved</span></font></div>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></span><span style="color:rgb(51, 102, 255)">Entrance:</span> Centennial Drive<br>&nbsp;</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-122.249298,37.871685,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr - Building 4</name>
+    <Snippet>No of Spaces: 11Parking Permits: Faculty/staff, Disabled Parking, Residence Hall</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/buildingfour.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">7</span><br>Parking Permits</font>:</font> F, RH</div>
+<div dir="ltr"><font color="#3366ff"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font> small road off of Sport Ln<br><br><font size="6"><span style="color:rgb(153, 0, 0)"></span></font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-122.248947,37.865837,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr-Building 19</name>
+    <Snippet>No of Spaces: 41Parking Permits:&amp;nbsp;Faculty/staff, Disabled Parking, Residence</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/facultyapartments.jpg"><br>No of Spaces: <font color="#000000">5</font><br>Parking Permits</font>:</font>&nbsp;F, C<br><font color="#3366ff">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff"></font></font></font></font><br></font><font color="#3366ff">Entrance:</font> Eastway Dr</div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-122.245872,37.863384,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr - Building 20</name>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/facultyapartments.jpg"><br><font color="#33ccff"><font color="#3366ff">No.Spaces: 22<br>Parking Permits</font>:</font>&nbsp;F, RH<br><font color="#3366ff">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><br></font><font color="#3366ff">Entrance:</font> Eastway Dr]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-122.245888,37.863216,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr-Golden Bear Lot</name>
+    <Snippet>No of Spaces: 10Parking Permits:&amp;nbsp;Public ticket machine/meterEntrance: Sport</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><br><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/threehourlot.jpg"><br>No of Spaces: <font color="#000000">23<br></font>Parking Permits</font>:</font><font size="4"> </font><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Sport Lane</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-122.246872,37.865410,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr-Horseshoe Driveway</name>
+    <Snippet>No of Spaces: 11Parking Permits:Central Campus, Disabled Parking Entrance: Warni</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ckchorseshoe.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">10</span><br>Parking Permits</font>: <font color="#000000">C<br></font></font></div>
+<div dir="ltr"><font color="#3366ff">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font></div><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Warning St</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-122.249390,37.864151,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr - Lower Court Street</name>
+    <description><![CDATA[<font color="#33ccff"><font color="#3366ff"><span style="color:rgb(0, 0, 0)"></span>Parking Spaces: <span style="color:rgb(0, 0, 0)">12</span><br>Parking Permits</font>:</font> RH
+<div dir="ltr"><font color="#3366ff"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><br>Entrance:</font> Dwight Way<br><br><font size="6"><span style="color:rgb(153, 0, 0)"></span></font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-122.249130,37.865143,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr-North Street</name>
+    <Snippet>No of Spaces: 16Parking Permits: Faculty/staff, Disabled Parking,&amp;nbsp;Motorcycl</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/North%20Street.jpg"><div dir="ltr"><font color="#3366ff"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">6</span><br>Parking Permits</font><font color="#33ccff">:</font><span style="font-weight:bold"> </span>C, F, RH, <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">P, MC, DP</span></font><font size="4" style="color:rgb(102, 51, 0)"><br></font><font color="#3366ff"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font>Dwight Way<br>&nbsp;</div><span><span style="color:rgb(0, 51, 0)"><span style="color:rgb(0, 102, 0)"></span></span></span><span style="font-style:italic"><span><span style="font-weight:bold;color:rgb(0, 51, 0)"><span style="color:rgb(0, 102, 0)"><font color="#000000"><br></font></span></span></span></span>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-122.249146,37.865681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr Northwest Lot</name>
+    <Snippet>No of Spaces: 40Parking Permits:&amp;nbsp;Residence Hall, Disabled Parking, Motorcyc</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ckcnorthwest.jpg"><br>No of Spaces: 3<span style="color:rgb(0, 0, 0)">0</span><br>Parking Permits</font>:</font>&nbsp;RH, M, DP<br><font color="#3366ff"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> North St<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-122.249939,37.865585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr Southwest Lot</name>
+    <Snippet>No of Spaces: 167Parking Permits:&amp;nbsp;Central Campus, Faculty/staff, Student, D</Snippet>
+    <description><![CDATA[<div dir="ltr"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/clarkkerr.jpg" border="0" height="150" width="200"><br><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">134</span><br>Parking Permits</font>:</font>&nbsp;C, F, MC, RH, DP<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Warning St</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-122.249657,37.862923,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr-Sports Lane</name>
+    <Snippet>No of Spaces: 16Parking Permits:&amp;nbsp; Public ticket machine/meter, Disabled Par</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ckcsportlane.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">15</span><br>Parking Permits</font><font color="#33ccff">:</font> C, <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font> </div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Sports Lane</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-122.247375,37.864845,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clark Kerr - Upper Court Street</name>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ckcupperstreet.jpg"><br>
+<font color="#33ccff"><font color="#3366ff"><span style="color:rgb(0, 0, 0)"></span>Parking Spaces: <span style="color:rgb(0, 0, 0)">8</span><br>Parking Permits</font>:</font> F, C, DP
+<div dir="ltr"><font color="#3366ff"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff"></font><br></font></font></font><br>Entrance:</font> Dwight Way<br><br><font size="6"><span style="color:rgb(153, 0, 0)"></span></font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>-122.249390,37.865376,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cleary Hall (Haste/Channing Housing)</name>
+    <Snippet>No of Spaces: 39Parking Permits: Residence Housing, Disabled ParkingHeight Restr</Snippet>
+    <description><![CDATA[<div><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Hast-Channing-Garage.jpg">No of Spaces: <span style="color:rgb(0, 0, 0)">39</span><br>Parking Permits</font>:</font> RH</div>
+<div><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Height Restrictions:</font> 7' 7"</div>
+<div><font color="#3366ff">Entrance:</font> Haste St<br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-122.259453,37.866333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Coffer Dam Lot</name>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Coffer%20Dam%20Lot.jpg" border="0" height="150" width="200"><br><font color="#33ccff"><font color="#3366ff">Parking Permits</font>:</font><span> Public</span><br><font color="#3366ff">Public Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am</font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"> - 2am<br></font></font></font><br></font>
+<div><font color="#3366ff">Entrance:</font> off of Centennial Dr</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-122.241783,37.872471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>College Lot</name>
+    <Snippet>No of Spaces: 25Parking Permits: Motorcycle, Restricted, Disabled Parking&amp;nbsp; </Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/College-Lot-2.jpg">
+<div dir="ltr"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">5</span><br>Parking Permits</font><font color="#33ccff">:</font> M, R, DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font>&nbsp;<font color="#000000">Haas Service Road</font></div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-122.254494,37.872128,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dana/Durant Lot</name>
+    <Snippet>No of Spaces: 86 (40 spaces Attendant Parked)Parking Permits: Faculty/staff, Car</Snippet>
+    <description><![CDATA[<div><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/dana-durantlot.jpg" border="0" height="150" width="200"><br><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">83</span><br>Parking Permits</font>:</font> F, CP(reserved until 10am), <span></span>DP, R<br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Dana St<br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-122.261009,37.867966,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Donner Lot</name>
+    <Snippet>No of Spaces: 13Parking Permits: Restricted, Disabled ParkingEntrance: Universit</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Donner-Lab-Lot.jpg">
+<div><font color="#33ccff"><font color="#3366ff">No of Spaces: <font color="#000000">13<br></font>Parking</font>:</font> Reserved (R)<br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> University Drive<br>&nbsp;</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-122.256912,37.875072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dwinelle Annex</name>
+    <Snippet>No of Spaces: 13Parking Permits: Central Campus, Disabled&amp;nbsp; Parking, Restric</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Dwinell-Annex.jpg"> 
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 7<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, R, DP<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: </font><font color="#000000">Harmon Way</font></div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-122.260933,37.870316,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dwinelle Lot</name>
+    <Snippet>No of Spaces: 90 (30 spaces Attendant Parked)Parking Permits: Central Campus, Di</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Dwinellelot.jpg"><br>No of Spaces:</span> 87 (30 spaces Attendant Parked)<br><span style="color:rgb(51, 102, 255)">Parking Permits: <font color="#000000">C, R, DP<br></font></span></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance: </font><font color="#000000">Harmon Way</font></div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-122.261490,37.870743,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>East Lot</name>
+    <Snippet>No of Spaces: 53Parking Permits:&amp;nbsp;Public ticket machine/meterEntrance: Cente</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Eastlot.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">53</span><br>Parking Permits</font>:</font> <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font><br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Centennial Dr<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-122.246964,37.880562,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ellsworth Structure</name>
+    <Snippet>No of Spaces: 198Parking Permits: Student, Residence Hall, Motorcycle, Disabled </Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Ellsworth.jpg"> 
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">180</span><br>Parking Permits</font>:</font> C, F, S<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Channing Way and Haste St</div>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">Height Restrictions:</span><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic"> </span></span><font color="#000000" size="2">7' 5"</font><span style="font-style:italic"><br></span></font><br><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Ellsworth-Second-Entrance.jpg"></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-122.262573,37.865883,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Epworth West Lot</name>
+    <Snippet>No of Spaces: 8Parking Permits:&amp;nbsp;Faculty/staff  Entrance: Channing Way</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Epworth-West.jpg" border="0" height="150" width="200"> 
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces:<span style="color:rgb(0, 0, 0)"> 8</span><br>Parking Permits</font>:</font> C, F</div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Channing Way</div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-122.258163,37.867355,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eshleman Road</name>
+    <Snippet>No of Spaces: 11Parking Permits: Central Campus, Disabled Parking Entrance:&amp;nbsp</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Eshlemanroad.jpg" border="0" height="150" width="200"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">11</span><br>Parking Permits</font><font color="#33ccff">: </font><font color="#000000">C, DP<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font>&nbsp;Eshleman Road&nbsp;</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-122.258064,37.870491,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Extension Lot North</name>
+    <Snippet>No of Spaces: 8Parking Permits: Central Campus, Restricted Entrance: Fulton St &amp;</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/North-Extension.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">2</span><br>Parking Permits</font><font color="#33ccff">:</font> C, R<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Fulton St<br>&nbsp;</div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-122.265869,37.868942,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Extension Lot South</name>
+    <Snippet>No of Spaces: 24Parking Permits: Central Campus, Disabled Parking Entrance: Banc</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ExtensionLotSouth.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">22</span><br>Parking Permits</font><font color="#33ccff">:</font> C, DP, R<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Bancroft Way</div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-122.265633,37.868279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Faculty Club Lane</name>
+    <Snippet>No of Spaces: 7Parking Permits: Restricted, Disabled Parking&amp;nbsp;  Entrance:&amp;nb</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Faculty-Club-Lane.jpg">
+<div dir="ltr"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">1</span><br>Parking</font><font color="#33ccff">:</font> Reserved (R), DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font>&nbsp;Faculty Club Lane</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-122.255203,37.871609,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Foothill Lot</name>
+    <Snippet>No of Spaces: 229Parking Permits:Central Campus,&amp;nbsp; Faculty/Staff,&amp;nbsp;Stude</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/foothilllot.jpg"><br>No of Spaces:<font color="#000000"> 183</font></span><br><span style="color:rgb(51, 102, 255)">Parking Permits: <font color="#000000">C</font><font color="#000000">, F, S, H, MC, DP<br></font></span></div><span></span>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></span></div>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">Entrance:</span> Cyclotron Road<br><span style="color:rgb(51, 102, 255)">Emergency Phone: </span><br>No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-122.253845,37.874859,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frank Schlessinger Way</name>
+    <Snippet>No of Spaces: 82Parking Permits: Central Campus,&amp;nbsp;Disabled (DP) Parking, Mot</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/FrankSchlessenger-way.jpg" border="0" height="150" width="200"><br>No of Spaces:</span> 77<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, M, DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance: </font><font color="#000000">Oxford St to Dana Court</font> <br>&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-122.263496,37.870689,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Genetics Structure (Underground)</name>
+    <Snippet>  No of Spaces: 321Parking Permits: Central Campus, Faculty/staff,&amp;nbsp;Motorcyc</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)">
+<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Genetics.jpg" border="0" height="150" width="200"><br>No of Spaces: 280<font color="#000000"><br></font>Parking Permits</font><font color="#33ccff">:</font>&nbsp;&nbsp;<font color="#000000">C, F, MC, CP, DP</font><font size="2"><font color="#000000"> (reserved&nbsp;until 10 am) </font></font></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font> <font color="#000000">Oxford St</font></div>
+<div dir="ltr">
+<div dir="ltr"><font size="2"><font color="#000000"><font color="#3366ff">Height Restrictions:</font> 7' 0"</font></font></div>
+<div dir="ltr">&nbsp;</div></div>
+<div dir="ltr">Emergency Phone:&nbsp;<font color="#000000">No coins needed - Dial 9-911 or 911<br></font></div></span></div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-122.265663,37.873081,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Haas Pavilion Lot</name>
+    <Snippet>No of Spaces: 9Parking Permits: Central Campus  Entrance: Frank Schlessinger Way</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#000000"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Haas-Pavillion.jpg"></font><br><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 6<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C</div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance: </font><font color="#000000">Frank Schlessinger Way<br></font><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-122.262329,37.870003,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hearst Gym</name>
+    <Snippet>No of Spaces: 8Parking Permits: Central Campus, Motorcycle&amp;nbsp;  Entrance:&amp;nbsp</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Hearst-Lane.jpg"><br>No of Spaces:</span> 3<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> R, C, M<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:&nbsp;<font color="#000000">Bancroft Drive</font></font></div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-122.256348,37.869736,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hildebrand Hall, East of</name>
+    <Snippet>No of Spaces:&amp;nbsp; 14Parking Permits: Motorcycle, Restricted&amp;nbsp;  Entrance:&amp;n</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff">Parking Permits</font><font color="#33ccff">:</font>&nbsp;MC, Reserved (R)<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font>&nbsp;<font color="#000000" size="2">Haas Service Road or Girton Hall Service Road</font></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-122.255379,37.872475,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill Terrace 1</name>
+    <Snippet>No of Spaces: 44Parking Permits:&amp;nbsp;Public ticket machine/meterEntrance: Cente</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Terrance-Level-1.jpg"><br>No of Spaces: <font color="#000000">44<br></font>Parking Permits</font>:</font> <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font><br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font> Centennial Dr</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>
+<div dir="ltr">
+<p align="left"><b><font color="#003b78" face="Arial" size="1"><font color="#003b78" face="Arial" size="1"><font color="#003b78" face="Arial" size="1">&nbsp;</font><font color="#003b78" face="Arial" size="1"><font color="#003b78" face="Arial" size="1"><font color="#003b78" face="Arial" size="1"></font></font></font></font></font></b></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-122.246223,37.880577,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill Terrace 2</name>
+    <Snippet>No of Spaces: 54Parking Permits:&amp;nbsp;Public ticket machine/meterEntrance: Cente</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/LHS-Terrance-Level-2-3.jpg">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><br>No of Spaces: <font color="#000000">54<br></font>Parking Permits</font>:</font> <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font><br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Centennial Dr</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-122.245926,37.880360,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill Terrace 3</name>
+    <Snippet>No of Spaces: 53Parking Permits: Faculty/staff, Hill AreaEntrance: Centennial Dr</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/LHS-Terrance-Level-2-3.jpg">
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <font color="#000000">53<br></font>Parking Permits</font>:</font> C, F, H, P<br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Centennial Dr</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-122.245605,37.880119,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kroeber Lot</name>
+    <Snippet>No of Spaces: 21Parking Permits: Central Campus, Disabled Parking, Motorcycle, P</Snippet>
+    <description><![CDATA[<div><span><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Krober-Lot.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">21</span></span><br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, </span><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font><span>, R</span><span>eserved (R)</span><span>, DP<br><span style="color:rgb(51, 102, 255)">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></span></span><span><span style="color:rgb(51, 102, 255)">Entrance:</span> Bancroft Way </span></div>
+<div><span><br></span><span><span style="font-weight:bold;color:rgb(0, 51, 0)"><span style="color:rgb(0, 102, 0)"><font color="#000000">Secure Bicycle Parking Facilities</font></span></span></span></div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-122.255486,37.869808,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lawrence Hall of Science - Circle</name>
+    <Snippet>No of Spaces: 10Parking Permits: Disabled Parking, Hill AreaEntrance: Centennial</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/LHS-Circle.jpg">
+<div><font color="#33ccff"><font color="#3366ff"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">10</span><br>Parking Permits</font>:</font> H<br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Centennial Dr</div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>-122.246040,37.879055,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lawrence Hall of Science Staff Lot</name>
+    <Snippet>No of Spaces: 85Parking Permits: Faculty/staff, Central Campus, Reserved, Motorc</Snippet>
+    <description><![CDATA[<div><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/LHS-Staff-Lot.jpg"><br>No of Spaces: 68<font color="#000000"></font><br>Parking Permits</font>:</font> Reserved (R), H<br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Centennial Dr</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-122.247253,37.879284,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lower Hearst Structure</name>
+    <Snippet>4 Levels      No of Spaces: 155 (50 spaces Attendant Parked)Parking Permits: Fac</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/lowerhearst.jpg">
+<font size="4"><span style="color:rgb(51, 102, 255)">4 Levels</span></font><br>
+<div><ol><li>
+<div dir="ltr"><font color="#3366ff">No of Spaces: <font color="#000000">144 (50 spaces Attendant Parked)</font><br>Parking Permits</font><font color="#33ccff">:</font> C, F<span></span><font size="4">, <font size="2">CP, DP</font></font><font size="2"><strong></strong></font><font size="2"> (reserved&nbsp;until 10 am),<strong> </strong><font size="2"><span style="color:rgb(0, 0, 0)">R</span></font>estricted (R)<br></font></div><font color="#3366ff">Entrance:</font> Hearst Ave<br><span style="color:rgb(51, 102, 255)">Height Restrictions:</span><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic"> </span></span><font color="#000000" size="2">6' 10"</font><span style="font-style:italic"><br></span></font></li><li>
+<div dir="ltr"><font color="#3366ff">No of Spaces: <font color="#000000">162<br></font>Parking Permits</font><font color="#33ccff">:</font> <font size="2">P</font><span>ublic ticket machine/meter (Specifed Areas) C, F (valid in other areas)</span><span></span><font size="4"><span style="font-weight:bold"></span></font></div><font color="#3366ff">Entrance:</font> Scenic Ave<br><span style="color:rgb(51, 102, 255)">Height Restrictions:</span><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic"> </span></span><font color="#000000" size="2">6' 9"</font><span style="font-style:italic"><br></span></font></li><li>
+<div dir="ltr"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">130 (50 spaces Attendant Parked)</span><br>Parking Permits</font><font color="#33ccff">:</font><span style="font-weight:bold"> </span><font size="2">S, C, F</font><span></span><span></span><span></span><font size="4"><span style="font-weight:bold"></span></font></div><font color="#3366ff">Entrance:</font> Scenic Ave<br><span style="color:rgb(51, 102, 255)">Height Restrictions:</span><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic"> <font color="#000000" size="2">6</font></span></span><font color="#000000" size="2">' 9"</font><span style="font-style:italic"><br></span></font></li><li>
+<div dir="ltr"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">140 (45 spaces Attendant Parked)</span><br>Parking Permits</font><font color="#33ccff">:</font> <font size="2">C</font><font size="2"><span></span><span></span>, </font><font size="2">F</font><font size="2"><span></span></font><font size="2">, S<span></span>,</font></div><font color="#3366ff">Entrance:</font> Scenic Ave</li></ol><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-122.261368,37.875156,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Manville Lot (Underground)</name>
+    <Snippet>No of Spaces: 18Parking Permits: Residence Hall,&amp;nbsp; Disabled Parking    Entra</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/manvillelot.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">18</span><br>Parking Permits</font><font color="#33ccff">:</font> RH, DP<br></div>
+<div dir="ltr"><font style="color:rgb(102, 51, 0)" size="4"><span style="font-style:italic"><font style="color:rgb(102, 51, 0)" size="4"><span style="font-style:italic"></span></font></span></font></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font> Channing Way</div>
+<div dir="ltr"><font color="#3366ff">Height Restrictions:</font>&nbsp; 7' 0"</div>
+<div dir="ltr">&nbsp;</div><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-122.266991,37.865551,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Moses Court Lot</name>
+    <Snippet> No of Spaces: 9Parking Permits: Central Campus, Disabled Parking&amp;nbsp; Entrance</Snippet>
+    <description><![CDATA[<font color="#3366ff">
+<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Moses-Courtyard.jpg"><br>No of Spaces:<span style="color:rgb(0, 0, 0)"> 8</span><br>Parking Permits</font><font color="#33ccff">:</font> <span style="color:rgb(0, 0, 0)">C, DP</span><br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font>&nbsp;<font color="#000000">Eshleman Road</font></div></font>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-122.257759,37.870892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MSRI Parking Only</name>
+    <Snippet>No of Spaces: Parking Permits: MSRI Parking OnlyEntrance: Centennial Dr</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/MSRI-Lot.jpg"> <br><div dir="ltr"><font color="#33ccff"><font color="#3366ff">Parking Permits</font>:</font><span> MSRI Parking Only</span><br><font color="#3366ff">Entrance:</font> Centennial Dr<br></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-122.245453,37.880707,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mulford Hall Lot</name>
+    <Snippet>&amp;nbsp;No of Spaces: 10Parking Permits: Central Campus, Disabled (DP) Parking Ent</Snippet>
+    <description><![CDATA[<font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Mulford.jpg" border="0" height="150" width="200"></font><br><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 7<br>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance: </font><span>Hilgard Way or MacFarlane Lane</span><font color="#3366ff"><br><br><br>&nbsp;</font></div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-122.264450,37.872704,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NorthWest Crescent</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Southwest-Cresent.jpg" border="0" height="150" width="200"><br><span style="font-size:10pt;color:rgb(51, 102, 255)">Parking Permits:</span><span style="font-size:10pt">&nbsp;</span><span style="font-size:10pt">C, DP</span><br>&nbsp;</div><div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000">&nbsp;</font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F&nbsp;</font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp;&nbsp;<br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp;&nbsp;</font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:&nbsp;</font>West Entrance</div><div dir="ltr"><br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-122.265411,37.872204,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Optometry Lane</name>
+    <Snippet>No of Spaces: 9Parking Permits: Restricted  Entrance:&amp;nbsp;Optometry Lane  Emerg</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Optometry-Lane.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">9</span><br>Parking Permits</font><font color="#33ccff">:</font> Reserved (R)<br></div>
+<div dir="ltr">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font>&nbsp;Optometry Lane</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-122.254906,37.871140,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oxford Research Unit Lot</name>
+    <Snippet>No of Spaces: 26Parking Permits: Central Campus, Disabled (DP) Parking  Entrance</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Oxford-Research-Lot.jpg"><br>No of Spaces:</span> 23<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, DP<br></div>
+<div dir="ltr">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: </font><span>Walnut St</span><font color="#3366ff"><br></font></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-122.267273,37.875854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oxford Tract South Lot</name>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/OxfordTractSouth.jpg"><br><font color="#33ccff"><font color="#3366ff">No Spaces: <span style="color:rgb(0, 0, 0)">1</span><br>Parking Permits</font>:</font><span> C, R, DP</span><br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff"></font><br></font></font></font><br></font>
+<div><font color="#3366ff">Entrance:</font> Off of Walnut Street<br><br></div></span></div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-122.267296,37.875328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Prospect Court Lot (Construction)</name>
+    <Snippet>  No of Spaces: 67Parking Permits: Faculty/staff, Disabled (DP) Parking, Public </Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/prospect-court.jpg" border="0" height="150" width="200"><br>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 41<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> S, Reserved (R), DP<br></div>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>E</font>ntrance: </span>Prospect St</div>
+<div>&nbsp;</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-122.250160,37.869709,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>Telegraph/Channing Garage  Entrance: Durant Ave and Channing Way  &amp;nbsp;  Hours:</Snippet>
+    <description><![CDATA[<div><span><span style="color:rgb(51, 102, 255)"></span><span style="color:rgb(51, 102, 255)"><font size="4"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/telegraphgarage.jpg"><br>Telegraph/Channing Garage</font></span></span></div>
+<div><span><span style="color:rgb(51, 102, 255)">Entrance:</span> </span><span>Durant Ave and Channing</span><span><span style="font-weight:bold;color:rgb(0, 51, 0)"><span style="color:rgb(0, 102, 0)"><span style="font-weight:bold"> </span></span></span></span><span>Way</span></div>
+<div><span></span>&nbsp;</div>
+<div><span><font color="#3366ff">Hours:</font>&nbsp; Mon-Thu 7am to 1am</span></div>
+<div><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fri-Sat&nbsp;&nbsp; 7am to 2am</span></div>
+<div><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sun&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 8am to 10pm</span></div>
+<div><span></span>&nbsp;</div>
+<div><span><font color="#3366ff">Address:</font>&nbsp; 2450 Durant Ave</span></div>
+<div><span dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berkeley, CA 94704 </span></div>
+<div><span dir="ltr"></span>&nbsp;</div>
+<div><span dir="ltr"><font color="#3366ff">Phone:</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span dir="ltr">(510)843-1788</span><span dir="ltr"><br>&nbsp;</span></div>
+<div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-122.259537,37.867249,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>&amp;nbsp;Underground ParkingEntrance: Bancroft Way  2580 Bancroft Way  Berkeley, CA</Snippet>
+    <description><![CDATA[<font style="color:rgb(102, 51, 0)" size="4"><span style="font-style:italic">Underground Parking</span></font><br><font color="#3366ff">Entrance:</font> Bancroft Way<br><br>
+<div><span dir="ltr">2580 Bancroft Way</span><a style="text-decoration:underline" href="http://maps.google.com/maps?client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;hl=en&amp;tab=wl" target="_blank"><span></span></a></div>
+<div><span dir="ltr">Berkeley, CA 94704</span></div><br>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-122.257774,37.868694,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>&amp;nbsp;Underground ParkingEntrance: Bowditch St2308 Bowditch StBerkley, CA 94704</Snippet>
+    <description><![CDATA[&nbsp;<font style="color:rgb(102, 51, 0)" size="4"><span style="font-style:italic">Underground Parking</span></font><br><font color="#3366ff">Entrance:</font> Bowditch St<br><br>2308 Bowditch St<br>Berkley, CA 94704<br>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-122.256966,37.868595,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>The City of Berkeley Oxford Garage is located at 2200 Fulton Street (where Oxfor</Snippet>
+    <description><![CDATA[<span style="color:rgb(51, 102, 255)"><font size="4">Oxford Parking Garage</font><br>Entrance:</span> Kittredge Street<br><font face="Arial"><br>Oxford Street between Allston Way &amp; Kittredge Street<br>
+Berkeley, CA 94704<br>
+</font><font face="Arial">(510) 843-1788<br></font><font face="Arial">Mon-Sat&nbsp; 8:00AM to 12:00AM,&nbsp;<br>
+Sun 8:00AM to 8:00PM</font><br><br>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-122.266716,37.868748,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>Entrance: Kittredge St  2020 Kittredge St Berkeley, CA 94704 (510)845-2184</Snippet>
+    <description><![CDATA[<div dir="ltr"><font style="color:rgb(51, 102, 255)" size="4"><span><span><span dir="ltr"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/kittredgegarage.jpg"><br>Standard Parking</span></span></span></font><br><span style="color:rgb(51, 102, 255)">Entrance:</span> Kittredge St
+<br>
+<br>2020 Kittredge St
+<br>Berkeley, CA 94704
+<br>(510)845-2184</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-122.269913,37.867977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>Entrance: Allston Way    Allston WY Standard Parking        2061 Allston Way, Be</Snippet>
+    <description><![CDATA[<font style="font-family:arial,sans-serif" size="4"><span style="color:rgb(51, 102, 255)">Allston Way Parking </span><span style="color:rgb(51, 102, 255)"><span><em><span style="font-style:italic"></span></em>Garage</span></span></font><br><span style="color:rgb(51, 102, 255)">Entrance: </span>Allston Way<br>
+<div><span dir="ltr"><font size="3" face="Arial"><font size="3" face="Arial">
+</font></font><p align="left"><font size="3" face="Arial"><font size="3" face="Arial"><font size="2" face="arial,sans-serif">Allston WY Standard </font></font></font><font face="arial,sans-serif">Parking</font></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p align="left"><b></b><font face="arial,sans-serif">2061 Allston Way, Berkeley, CA</font></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p><font face="arial,sans-serif">(510) 981-9443 </font><font color="#6a6968"><font color="#6a6968"><font color="#6a6968"></font></font></font></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p>
+<p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><font color="#6a6968"><font color="#6a6968"><font color="#6a6968"></font></font></font></span><br>&nbsp;</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-122.269226,37.869602,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>Center Street Parking Garage  Entrance: Addison St and Center St  Hours; &amp;nbsp;M</Snippet>
+    <description><![CDATA[<div><span style="color:rgb(51, 102, 255)"><font size="4"><img style="width:151px" src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/centergarage1.jpg"><img style="width:151px" src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/centergarage2.jpg"><br>Center Street Parking Garage</font></span></div>
+<div><span style="color:rgb(51, 102, 255)">Entrance: <span style="color:rgb(0, 0, 0)">Addison St and Center St</span></span></div>
+<div><span style="color:rgb(51, 102, 255)"><span style="color:rgb(0, 0, 0)"><br><font color="#66ffff"><span style="color:rgb(51, 102, 255)">Hours; <font color="#000000">&nbsp;Mon-Fri&nbsp; 5:15AM to Midnight</font></span></font></span></span></div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%"><font face="Arial" color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday 7:00AM to Midnight</font></div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sunday 12 noon to Midnight</div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%"><font face="Arial" color="#120000">&nbsp;</font></div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%"><font color="#000000"><font color="#3366ff">Address:</font>&nbsp; 2025 Center St</font></div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berkeley, CA 94704</div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%"><font color="#000000">&nbsp;&nbsp;</font>&nbsp;</div>
+<div style="margin-top:0px;margin-bottom:0px;line-height:100%"><span><span dir="ltr"><span style="color:rgb(51, 102, 255)">Phone&nbsp;&nbsp;&nbsp;&nbsp; <font color="#000000">(510) 843-1788</font></span></span></span></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-122.269531,37.870380,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Public Parking Off-Campus</name>
+    <Snippet>Berkeley Way Parking Lot  &amp;nbsp;  City CarShare Pod  (2 spaces located at east e</Snippet>
+    <description><![CDATA[<div><span style="color:rgb(51, 102, 255)"><span style="color:rgb(0, 0, 0)"><font size="4" color="#3366ff">Berkeley Way Parking Lot</font></span></span></div>
+<div><span style="color:rgb(51, 102, 255)"><span style="color:rgb(0, 0, 0)"><font size="4" color="#3366ff"></font></span></span>&nbsp;</div>
+<div><span style="color:rgb(51, 102, 255)"><span style="color:rgb(0, 0, 0)">City <font size="2"><strong>C</strong>ar</font><font size="2"><strong>S</strong></font>hare Pod</span></span></div>
+<div><span style="color:rgb(51, 102, 255)"><font color="#000000">(2 spaces located at east entrance)</font></span></div>
+<div><span style="color:rgb(51, 102, 255)"><font color="#000000"></font><br>Entrance</span>: Berkeley Way</div>
+<div>&nbsp;</div>
+<div><font color="#3366ff">Hours:</font>&nbsp; Mon-Sat 7am to 10 pm</div>
+<div>&nbsp;</div>
+<div><font color="#3366ff">Address:</font> 2016 Berkeley Way</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Berkeley, CA 94704<br>&nbsp;</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-122.268112,37.873558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Recreational Sports Facility Structure (Underground)</name>
+    <Snippet>No of Spaces: 237 (67 spaces Attendant Parked)Parking Permits: Central Campus, F</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/rsfgarage.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">189 (67 spaces Attendant Parked)</span><br>Parking Permits</font><font color="#33ccff">:</font> C, F, M, Reserved (R), P, DP<br>&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">Height Restrictions:</font> 6' 8"<font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><font size="4" style="color:rgb(102, 51, 0)"><span style="font-style:italic"><span style="font-style:italic">&nbsp;</span></span></font></span></font></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Bancroft Way @ Ellsworth St</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><strong>Secure Bicycle Parking Facility</strong></div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr">
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;<font color="#000000">No coins needed - Dial 9-911 or 911<br></font></div></div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-122.263680,37.868347,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ridge Lot </name>
+    <Snippet>No of Spaces: 31  Parking Permits: Faculty/staff &amp;nbsp;Entrance: Ridge Road</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ridgelot.jpg"><br>No of Spaces: <font color="#000000">2</font><font color="#000000">1</font></font></div>
+<div dir="ltr"><font color="#3366ff">Parking Permits</font><font color="#33ccff">:</font> C, F&nbsp;<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Ridge Road<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-122.257187,37.876240,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sather Lot</name>
+    <Snippet>No of Spaces: 7 Parking Permits: Central Campus, Disabled Parking&amp;nbsp; Entrance</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Sather-Lot.jpg"><br>No of Spaces: </font><font color="#000000">7</font></div>
+<div dir="ltr"><font color="#3366ff">Parking Permits</font><font color="#33ccff">:</font> C <br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font>&nbsp;University Drive </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-122.257790,37.872837,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>South Drive</name>
+    <Snippet>No of Spaces: 29Parking Permits: Central Campus,&amp;nbsp; Disabled (DP) Parking Ent</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/South-Drive.jpg"><br>No of Spaces:</span> 17<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance: </font><span>South Drive</span><font color="#3366ff"><br></font><span style="font-size:12pt"><a href="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/" target="_blank"></a></span><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/South-Drive-2.jpg"><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-122.257355,37.871864,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SouthWest Crescent</name>
+    <Snippet>No of Spaces: 28Parking Permits: Central Campus, Disabled&amp;nbsp;Parking  Entrance</Snippet>
+    <description><![CDATA[<div dir="ltr"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Southwest-Cresent.jpg" border="0" height="150" width="200"><br><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 21<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, DP<br>&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: </font>West Entrance</div>
+<div dir="ltr"><br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-122.265305,37.870956,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Space Science Access Road</name>
+    <Snippet>No of Spaces: 21 (10 spaces Attendant Parked)Parking Permits: Faculty/staff  Ent</Snippet>
+    <description><![CDATA[<div><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/ridge.jpg" border="0" height="150" width="200"><br><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">25 </span><br>Parking Permits</font>:</font><span> F</span></div>
+<div><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>Entrance:</font> off of Centennial Dr<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-122.244133,37.881512,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Space Sciences Laboratory Lot</name>
+    <Snippet>No of Spaces:&amp;nbsp; 29Parking Permits: Faculty/staff, Hill AreaEntrance: off of </Snippet>
+    <description><![CDATA[<div><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/spacesciences.jpg" border="0" height="150" width="200"><br><font color="#33ccff"><font color="#3366ff">No of Spaces:&nbsp; <font color="#000000">29<span style="color:rgb(0, 0, 0)"></span></font><br>Parking Permits</font>:</font><span> F, H</span><br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font></div>
+<div><font color="#3366ff">Entrance:</font> off of Centennial Dr<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-122.243774,37.880367,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Space Science Laboratory - Upper Lot</name>
+    <Snippet>No of Spaces: 48Parking Permits: Faculty/staff, Hill Area, Disabled Parking&amp;nbsp</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/SSL-Upper-Lot.jpg"><br>No of Spaces: <font color="#000000">39</font><br>Parking Permits</font>:</font> F, H, DP&nbsp; <br><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font> Centennial Dr</div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>-122.244270,37.880760,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sproul Lot</name>
+    <Snippet>No of Spaces: 20Parking Permits: Central Campus,&amp;nbsp;Disabled Parking&amp;nbsp;  En</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/sproul.jpg" border="0" height="150" width="200"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">17</span><br>Parking Permits</font><font color="#33ccff">:</font> C, DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br></font><font color="#3366ff">Entrance:</font>&nbsp;Barrow Lane</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-122.258995,37.870296,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Strawberry Canyon Lot</name>
+    <Snippet>No of Spaces: Parking Permits: Hill Entrance: Centennial Drive</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Poultry-lot.jpg"> 
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">7</span><br>Parking Permits</font>:</font> C, F, M<br></div>
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:00pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Centennial Drive<br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>-122.244301,37.872917,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stadium Rim Way Lot</name>
+    <Snippet> No of Spaces: 31Parking Permits: Student Entrance: Stadium Rim Way &amp;nbsp; &amp;nbsp</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/rimway.jpg" border="0" height="150" width="200"><br>
+<div dir="ltr"><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 31<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> S</div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><span style="color:rgb(51, 102, 255)">Entrance:</span> Stadium Rim Way</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><br>&nbsp;</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-122.250206,37.871796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tang Center 30min Lot</name>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Tang%20Center%2030min%20Lot.jpg">
+<font color="#33ccff"><font color="#3366ff"><br>No. Spaces: <span style="color:rgb(0, 0, 0)">11</span><br>Parking</font>:</font><span> Patient Parking Only, DP</span><br><font color="#3366ff">Parking Times:<font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><br></font></font></font><br></font>
+<div><font color="#3366ff">Entrance:</font> Off of Durant Ave<br></div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>-122.264275,37.867188,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tolman Hall Breezeway</name>
+    <Snippet>No of Spaces: 18Parking Permits: Motorcycle, Disabled&amp;nbsp; Parking, Restricted&amp;</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Tolman-Hall.jpg"><br>No of Spaces:</span> 5<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> M, Reserved (R)<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: </font><font color="#000000">Hearst Ave and Hilgard Way</font></div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-122.264046,37.874203,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Underhill Structure</name>
+    <Snippet>  &amp;nbsp;4 Levels        No. of Spaces:&amp;nbsp;263Parking Permits: Central Campus, </Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/underhilllotfirstview.jpg" border="0" height="150" width="200"><br>
+<div><font size="4">&nbsp; 
+<p style="margin:5pt 0in"><font face="Times New Roman"><span style="font-size:14pt">4 Levels</span><font size="3"> </font></font></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+<ol type="1" style="margin-top:0in">
+<li style="margin:5pt 0in"><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">No. of Spaces</span><span style="font-size:10pt;color:blue"><font face="Times New Roman">: </font></span><span style="font-size:10pt;color:black;font-family:Arial">262</span><span style="font-size:10pt;color:blue"><br></span><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Parking Permits</span><font face="Times New Roman"><span style="font-size:10pt;color:aqua">:</span><span style="font-size:10pt"> </span></font><span style="font-size:10pt;color:black;font-family:Arial">C, F, S, </span><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span><span style="font-size:10pt;font-family:Arial"></span></font><span style="font-size:10pt;color:black"><br></span><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Entrance</span><span style="font-size:10pt;color:black;font-family:Arial">: </span><span style="font-size:10pt;color:black;font-family:Arial">Channing Way</span><span style="font-size:10pt;color:black;font-family:Arial"> and </span><span style="font-size:10pt;color:black;font-family:Arial">Haste Street</span><span style="font-size:10pt"><br></span><span style="font-size:10pt;color:black;font-family:Arial">Height Restrictions: 8' 2"</span></li>
+<li style="margin:5pt 0in;color:black"><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">No. of Spaces</span><span style="font-size:10pt;color:blue"><font face="Times New Roman">: </font></span><span style="font-size:10pt;font-family:Arial">252</span><span style="font-size:10pt;color:blue"><br></span><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Parking Permits</span><font face="Times New Roman"><span style="font-size:10pt;color:aqua">:</span><span style="font-size:10pt;color:windowtext"> </span></font><span style="font-size:10pt;font-family:Arial">C, F, S</span><span style="font-size:10pt">, </span><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P), Handicap Spaces</span><span style="font-size:10pt;font-family:Arial"></span></font><br><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Entrance</span><font face="Times New Roman"><span style="font-size:10pt;color:blue">:</span><span style="font-size:10pt;color:windowtext"> </span></font><span style="font-size:10pt;font-family:Arial">Channing Way</span><span style="font-size:10pt;font-family:Arial"> and </span><span style="font-size:10pt;font-family:Arial">Haste Street</span><span style="font-size:10pt;font-family:Arial"><br>Height Restrictions: 8' 2"</span></li></ol>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+<ol start="3" type="1" style="margin-top:0in">
+<li style="margin:5pt 0in;color:rgb(51, 102, 255)"><span style="font-size:10pt;font-family:Arial">No. of Spaces</span><span style="font-size:10pt;color:blue"><font face="Times New Roman">: </font></span><span style="font-size:10pt;color:black;font-family:Arial">266</span><span style="font-size:10pt;color:blue"><br></span><span style="font-size:10pt;font-family:Arial">Parking Permits</span><span style="font-size:10pt;color:black;font-family:Arial">: C, F, S, Public (P)</span><span style="font-size:10pt;font-family:Arial"><br>Entrance: </span><span style="font-size:10pt;color:black;font-family:Arial">Channing Way</span><span style="font-size:10pt;color:black;font-family:Arial"> and </span><span style="font-size:10pt;color:black;font-family:Arial">Haste Street</span><span style="font-size:10pt;color:black;font-family:Arial"><br>Height Restrictions: 8' 2"</span><span style="font-size:10pt;font-family:Arial"></span></li>
+<li style="margin:5pt 0in"><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">No. of Spaces</span><span style="font-size:10pt;color:blue"><font face="Times New Roman">: </font></span><span style="font-size:10pt;color:black;font-family:Arial">181</span><span style="font-size:10pt;color:blue"><br></span><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Parking Permits</span><font face="Times New Roman"><span style="font-size:10pt;color:aqua">:</span><span style="font-size:10pt"> </span></font><span style="font-size:10pt;color:black;font-family:Arial">C, F, S, </span><font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span><span style="font-size:10pt;font-family:Arial"></span></font><span style="font-size:10pt;color:black"><br></span><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Entrance:</span><span style="font-size:10pt"><font face="Times New Roman"> </font></span><span style="font-size:10pt;color:black;font-family:Arial">Channing Way</span><span style="font-size:10pt;color:black;font-family:Arial"> and </span><span style="font-size:10pt;color:black;font-family:Arial">Haste Street</span><span style="font-size:10pt;color:black;font-family:Arial"><br>Height Restrictions: 8' 2"</span><span style="font-size:14pt"><br></span></li></ol>
+<p style="margin:0in 0in 0pt"><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Permit Parking:</span><span style="font-size:10pt;color:black;font-family:Arial"> M-F </span><span style="font-size:10pt;color:black;font-family:Arial">7am - 5:30pm</span><span style="font-size:10pt;color:black;font-family:Arial">&nbsp; <br></span><span style="font-size:10pt;color:rgb(51, 102, 255);font-family:Arial">Public Parking:&nbsp; </span><span style="font-size:10pt;color:black;font-family:Arial">M-Sun After </span><span style="font-size:10pt;color:black;font-family:Arial">5pm - 2am</span><span style="font-size:10pt;color:black;font-family:Arial"></span></p><p style="margin:0in 0in 0pt"><span style="font-size:10pt;color:black;font-family:Arial"><span style="color:rgb(51, 102, 255)">No Parking:</span> 2am - 5am <br></span></p><p style="margin:0in 0in 0pt"><span style="font-size:10pt;color:black;font-family:Arial">Weekends all day with the exceptions of Special Events - Fee Required</span><span style="font-size:10pt;font-family:Arial"></span></p></font></div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-122.254936,37.866962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Unit 1 Lot</name>
+    <Snippet>  No of Spaces: 34Parking Permits:&amp;nbsp; Central Campus, Faculty/staff, Restrict</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Unit1lot.jpg"> 
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <span style="color:rgb(0, 0, 0)">29</span><br>Parking Permits</font>:</font><span></span><font size="4">&nbsp;<span style="font-weight:bold"></span></font> C, F, Reserved (R), DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permi</font><font color="#3366ff">t Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font>&nbsp;Durant Ave</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-122.255920,37.867680,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Unit 2 Lot</name>
+    <Snippet>&amp;nbsp;   No of Spaces: 14Parking Permits:&amp;nbsp;Faculty/staff, Restricted, Disabl</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Unit2lot.jpg">&nbsp; 
+<div dir="ltr"><font color="#33ccff"><font color="#3366ff">No of Spaces: <font color="#000000">12</font><br>Parking Permits</font>:</font>&nbsp;F, Reserved (R), DP<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font>&nbsp;Haste St<br><span style="color:rgb(51, 102, 255)">Exit:</span> Dwight Way<br>&nbsp;</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-122.255562,37.866047,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University Drive</name>
+    <Snippet> No of Spaces: 17Parking Permits: Central Campus, Disabled Parking, Restricted &amp;</Snippet>
+    <description><![CDATA[<div dir="ltr">
+<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/University-Drive.jpg"><br>No of Spaces: <font color="#000000">4<br></font>Parking Permits</font><font color="#33ccff">:</font>&nbsp;C, Reserved (R) <br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> University Drive<br>&nbsp;</div></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-122.257401,37.873127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University Hall Well Lot</name>
+    <Snippet>No of Spaces: 19Parking Permits: Faculty/staff, Disabled Parking, Restricted&amp;nbs</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/University-Well.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">9</span><br>Parking Permits</font><font color="#33ccff">:</font> F, Reserved (R), DP <br></div>
+<div dir="ltr"><font color="#3366ff">Entrance:</font> Addison St</div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br>&nbsp;</div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-122.266617,37.871548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University Hall West Lot</name>
+    <Snippet>No of Spaces: 29Parking Permits:&amp;nbsp;Public ticket machine/meterDisabled Parkin</Snippet>
+    <description><![CDATA[<div dir="ltr"><font color="#3366ff"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/U-West-lot.jpg"><br>No of Spaces: <span style="color:rgb(0, 0, 0)">29</span><br>Parking Permits</font><font color="#33ccff">:</font> <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font>, DP<br><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Addison St between Oxford and Shattuck</div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-122.266907,37.871601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Upper Hearst Structure</name>
+    <Snippet>4 Levels      No of Spaces: 76 (30 spaces Attendant Parked)Parking Permits: Cent</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/Upperhearst2.jpg">
+<font size="4"><span style="color:rgb(51, 102, 255)"><br>4 Levels</span></font><br><ol><li><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 70 (30 spaces Attendant Parked)<br><span style="color:rgb(51, 102, 255)">Parking Permits</span>: C, Reserved (R)<br>
+<span style="color:rgb(51, 102, 255)">Entrance:</span> Hearst Ext<br>
+<span style="color:rgb(51, 102, 255)">Height Restrictions:</span> 7' 1"</li><li><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 77 (25 spaces Attendant Parked)<br>
+<span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, F, M<br>
+<span style="color:rgb(51, 102, 255)">Entrance:</span> Ridge Road</li><li><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 65 (25 spaces Attendant Parked)<br>
+<span style="color:rgb(51, 102, 255)">Parking Permits:</span>&nbsp; C, F, MC, CP(reserved until 10 am), R<br> 
+<span style="color:rgb(51, 102, 255)">Entrance:</span> La Loma Ave<br>
+<span style="color:rgb(51, 102, 255)">Height Restrictions:</span> 7' 1"</li><li><span style="color:rgb(51, 102, 255)">No of Spaces:</span> 75 (30 spaces Attendant Parked)<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, MC, (R)
+<br><span style="color:rgb(51, 102, 255)">Entrance:</span> La Loma Ave</li><span style="color:rgb(51, 102, 255)"></span></ol><span style="color:rgb(51, 102, 255)">Permit Parking:</span> M-F 7am - 5:30pm <br><span style="color:rgb(51, 102, 255)">Public Parking:</span>&nbsp; M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required<br><span style="color:rgb(51, 102, 255)">Emergency Phone:</span> No coins needed - Dial 9-911 or 911]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>-122.257370,37.875729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vista Lot</name>
+    <Snippet>  No of Spaces: 58Parking Permits: Hill Area, Public ticket machine/meterEntranc</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/vistalot.jpg" border="0" height="150" width="200"><br>
+<div><font color="#33ccff"><font color="#3366ff">No of Spaces: <font color="#000000">58<br></font>Parking Permits</font>:</font> H, <font size="4"><span style="font-size:10pt;color:black;font-family:Arial">Public (P)</span></font></div>
+<div><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Centennial Dr</div>
+<div><br><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911</div>
+<div>&nbsp;</div>
+<div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-122.247742,37.880714,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wellman Courtyard Lot</name>
+    <Snippet>No of Spaces: 42Parking Permits: Central Campus, Disabled&amp;nbsp;Parking  Entrance</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/WelmanCourtyard.jpg" border="0" height="150" width="200"><br>No of Spaces:</span> 38<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: <span style="color:rgb(0, 0, 0)">Wickson Road</span><br></font></div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-122.262886,37.873371,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>West Circle</name>
+    <Snippet>No of Spaces: 8Parking Permits: Central Campus, Disabled&amp;nbsp;Parking, Restricte</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/circle.jpg" border="0" height="150" width="200"><br>No of Spaces:</span> 11<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, Reserved (R), DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: <font color="#000000">University Drive</font></font></div>
+<div dir="ltr"><font color="#3366ff"><font color="#000000"><br></font></font><font color="#3366ff">Emergency Phone:</font>&nbsp;No coins needed - Dial 9-911 or 911<br>&nbsp;</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-122.263130,37.871975,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wickson Road</name>
+    <Snippet>No of Spaces: 20Parking Permits: Central Campus,&amp;nbsp;Restricted  Entrance: Wick</Snippet>
+    <description><![CDATA[<div dir="ltr"><span style="color:rgb(51, 102, 255)"><img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/wicksonroad.jpg"><br>No of Spaces:</span> 17<br><span style="color:rgb(51, 102, 255)">Parking Permits:</span> C, Reserved (R), DP<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance: </font><font color="#000000">Wickson Road</font></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-122.262474,37.872875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Witter Field Lot</name>
+    <Snippet>  No of Spaces: 113Parking Permits: Central Campus, Faculty/Staff, Student, Disa</Snippet>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/witterlot.jpg" border="0" height="150" width="200"><br>
+<div dir="ltr"><font color="#3366ff">No of Spaces:</font> 33<br><font color="#3366ff">Parking Permits:</font> C, F, DP, Public Parking Tickets only (3 hours max)<br></div>
+<div dir="ltr"><font color="#3366ff">Permit Parking:</font><font color="#000000"> </font><font color="#33ccff"><font color="#3366ff"><font color="#000000">M-F </font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000">7am - 5:30pm&nbsp; <br></font></font></font><font color="#33ccff"><font color="#3366ff"><font color="#000000"><font color="#3366ff">Public Parking:&nbsp; </font>M-F After 5pm - 2am<br>Weekends all day with the exceptions of Special Events - Fee Required</font></font></font><br><font color="#3366ff">Entrance:</font> Centennial Drive east of Rim Way road&nbsp;</div>
+<div dir="ltr">&nbsp;</div>
+<div dir="ltr"><font color="#3366ff">Emergency Phone:</font> No coins needed&nbsp; - Dial 9-911 or 911</div>
+<div dir="ltr">&nbsp;</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-122.248390,37.871483,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UC Berkeley Parking &amp; Transportation Department</name>
+    <description><![CDATA[<img src="http://pt.berkeley.edu/sites/pt.berkeley.edu/files/content/lots/pandtdepartment.jpg"><div dir="ltr"><span style="font-weight:bold"><span style="font-weight:bold"></span>Address:</span> 2150 Kittredge Street, First Floor<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berkeley, CA, 94720-5740<br><span style="font-weight:bold">Phone</span>: (510) 643-7701<br><span style="font-weight:bold">Fax:</span>&nbsp;&nbsp;&nbsp;&nbsp; (510) 642-9004<br><strong>Lobby Hours:</strong> Monday - Friday, 7:30 a.m. - 4:00 p.m.<br></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-122.266830,37.868488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

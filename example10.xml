@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<postal-address>
+  <name-part>
+	<personal-part>
+		<first-name>Hoang</first-name>
+	</personal-part>
+	<name-part>
+		<personal-part>
+			<initial>H</initial>
+		</personal-part>
+		<last-name>Nguyen</last-name>
+  	</name-part>
+  </name-part>
+
+  <street-address>
+    <house-num>7</house-num>
+    <street-name>street</street-name>
+  </street-address>
+
+  <zip-part>
+    <town-name>town</town-name>
+    <state-code>state</state-code>
+    <ZIP-code>ZIP</ZIP-code>
+  </zip-part>
+</postal-address>

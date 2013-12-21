@@ -1,0 +1,10 @@
+%active SodaHall:1;
+%active Floor3:1;
+%active Floor2:1;
+%active Floor1:1;
+%active Room306:1;
+%active Room304:1;
+%active Room330:1;
+%passive Phone:1;
+
+SodaHall.(Floor3.(Room306.Phone|Room304|Room330)|Floor2|Floor1);

@@ -1,0 +1,12 @@
+%active SodaHall:1;
+%active Floor3:2;
+%active Floor2:2;
+%active Floor1:1;
+%active Room306:1;
+%active Room304:1;
+%passive Phone:1;
+
+%name elevator;
+%name stair3to2;
+
+SodaHall.(Floor3[elevator,stair3to2].(Room306.Phone | Room304)|Floor2[elevator,stair3to2]|Floor1[elevator]);

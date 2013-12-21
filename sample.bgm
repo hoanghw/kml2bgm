@@ -1,0 +1,7 @@
+%active Base Ball :1;
+%active Soccer Field :1;
+%active Fulton :1;
+%active Ball :1;
+Fulton.(Base Ball|Soccer Field.(Ball));
+
+

@@ -1,0 +1,6 @@
+%active Phone :1;
+%active NorthCampusArea :1;
+%active UpperHearst :1;
+%active LowerHearstParkingStructure :1;
+
+NorthCampusArea.(LowerHearstParkingStructure.(Phone))|UpperHearst;
